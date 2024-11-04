@@ -13,6 +13,10 @@ Users can move between stages and input data is validated.
 ### Responsive Design: 
 Works well on both desktop and mobile.
 
+## Live Demo
+###View the live version here: 
+[Mars Visit Application Form](https://elaborate-sprite-edaa4b.netlify.app)
+
 ## How to Run Locally
 
 Clone the Repository:
@@ -30,7 +34,7 @@ npm start
 
 ## Deployment
 
-Deploy easily on platforms like Netlify or Vercel by linking the GitHub repository and using the build command npm run build.
+Deploy easily on platforms like Netlify or Vercel by linking the GitHub repository and using the build command: npm run build.
 
 Contact
 
