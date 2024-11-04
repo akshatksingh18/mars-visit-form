@@ -14,14 +14,14 @@ Responsive Design: Works well on both desktop and mobile.
 
 Clone the Repository:
 
-# git clone https://github.com/akshatksingh18/mars-visit-form.git
+### git clone https://github.com/akshatksingh18/mars-visit-form.git
 cd mars-visit-form
 
-# Install Dependencies:
+### Install Dependencies:
 
 npm install
 
-# Run the Application:
+### Run the Application:
 
 npm start
 
