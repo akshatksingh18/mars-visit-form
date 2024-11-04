@@ -1,4 +1,4 @@
-Mars Visit Application Form
+## Mars Visit Application Form
 
 A simple multi-stage form built using React to collect information for a visit to Mars.
 
