@@ -4,11 +4,14 @@ A simple multi-stage form built using React to collect information for a visit t
 
 ## Features
 
-Three Stages: Personal Information, Travel Preferences, Health and Safety.
+### Three Stages: 
+Personal Information, Travel Preferences, Health and Safety.
 
-Navigation and Validation: Users can move between stages and input data is validated.
+### Navigation and Validation: 
+Users can move between stages and input data is validated.
 
-Responsive Design: Works well on both desktop and mobile.
+### Responsive Design: 
+Works well on both desktop and mobile.
 
 ## How to Run Locally
 
